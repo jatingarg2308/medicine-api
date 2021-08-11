@@ -1,8 +1,9 @@
-package com.example.medicine;
+package com.example.medicine.Model;
 
 
 import javax.persistence.*;
 
+import com.example.medicine.Model.MedicineId;
 import com.opencsv.bean.CsvBindByName;
 import lombok.Data;
 

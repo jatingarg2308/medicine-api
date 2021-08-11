@@ -1,5 +1,7 @@
-package com.example.medicine;
+package com.example.medicine.Repository;
 
+import com.example.medicine.Model.Medicine;
+import com.example.medicine.Model.MedicineId;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

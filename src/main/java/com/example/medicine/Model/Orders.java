@@ -1,4 +1,4 @@
-package com.example.medicine;
+package com.example.medicine.Model;
 
 import lombok.Data;
 

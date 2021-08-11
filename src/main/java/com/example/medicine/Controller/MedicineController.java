@@ -1,5 +1,8 @@
-package com.example.medicine;
+package com.example.medicine.Controller;
 
+import com.example.medicine.Service.MedicineService;
+import com.example.medicine.Model.Medicine;
+import com.example.medicine.Model.Orders;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

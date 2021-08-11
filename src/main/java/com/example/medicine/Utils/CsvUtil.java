@@ -1,5 +1,6 @@
-package com.example.medicine;
+package com.example.medicine.Utils;
 
+import com.example.medicine.Model.Medicine;
 import com.opencsv.bean.CsvToBeanBuilder;
 import lombok.experimental.UtilityClass;
 import lombok.extern.slf4j.Slf4j;
